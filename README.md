@@ -84,5 +84,3 @@ Customer churn is strongly influenced by **contract type, tenure, and monthly ch
 
 ---
 
-⭐ If you find this project useful, feel free to star the repository!# Customer-Churn-Analysis
-Exploratory Data Analysis and Visualization  of Customer Churn using Python
